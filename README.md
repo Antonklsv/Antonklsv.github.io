@@ -1,2 +1,2 @@
 # Antonklsv.github.io
-My personal websuit
+My personal website
